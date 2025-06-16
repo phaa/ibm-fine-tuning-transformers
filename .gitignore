@@ -1,4 +1,11 @@
 # Byte-compiled / optimized / DLL files
+*.pt
+*.pth
+*.pkl
+**/.vector_cache/**
+
+**/trained_model/**
+
 __pycache__/
 *.py[cod]
 *$py.class
